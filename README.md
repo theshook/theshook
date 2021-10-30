@@ -28,7 +28,7 @@
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=theshook&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="theshook Github Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshook&langs_count=10&layout=compact" alt="theshook Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshook&langs_count=10&layout=compact&theme=tokyonight" alt="theshook Most Used Languages"/>
 
 [G360]: https://guerilla360.com/
 <!--
