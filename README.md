@@ -9,7 +9,7 @@
 	</a>
 	<a href="https://app.daily.dev/haji" target="_blank">
 		<img 
-		src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png?r=4ks"
+		<img src="https://github.com/theshook/theshook/blob/main/devcard.svg"
 		align="right"
 		width="400" 
 		alt="Hajibar Fernandez's Dev Card"/>
