@@ -11,7 +11,7 @@
 		<img 
 		src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png"
 		align="right"
-		width="400" 
+		width="300" 
 		alt="Hajibar Fernandez's Dev Card"/>
 		</a>
 </div>
