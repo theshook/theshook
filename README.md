@@ -36,7 +36,7 @@
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=theshook&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="theshook Github Stats"/>
 
-<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshook&langs_count=10&layout=compact&hide_border=true&theme=tokyonight" alt="theshook Most Used Languages"/>
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshook&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" alt="theshook Most Used Languages"/>
 </p>
 
 
