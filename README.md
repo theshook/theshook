@@ -25,9 +25,9 @@
  - ⚡ Fun fact: I love to play guitar and play online games
  - ☕️ Loves a freshly brewed cup of coffee
 
----
-
 <br />
+
+## 📈 Github Statistics
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=theshook&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers" />
 
@@ -44,6 +44,8 @@
 
 
 [G360]: https://guerilla360.com/
+
+
 <!--
 **theshook/theshook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
