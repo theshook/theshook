@@ -4,17 +4,17 @@
 <div align="left">
 	<a href="https://linkedin.com/in/hajibar/">
 		<img
-	      		src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-	      		alt="LinkedIn"/>
+	      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+	      alt="LinkedIn"/>
 	</a>
 	<a href="https://app.daily.dev/haji" target="_blank">
-		<img src="https://github.com/theshook/theshook/blob/main/devcard.svg"
-			align="right"
-			width="400" 
-			alt="Hajibar Fernandez's Dev Card"/>
-	</a>
+		<img 
+		src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png"
+		align="right"
+		width="400" 
+		alt="Hajibar Fernandez's Dev Card"/>
+		</a>
 </div>
-
 <br />
 
 ## I'm Haji aka theshook
@@ -25,13 +25,10 @@
  - ⚡ Fun fact: I love to play guitar and play online games
  -  ☕️  Loves a freshly brewed cup of coffee
 
+---
+<img src="https://github-readme-stats.vercel.app/api?username=theshook&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="theshook Github Stats"/>
 
-
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshook&langs_count=10&layout=compact" alt="theshook Most Used Languages"/>
 
 [G360]: https://guerilla360.com/
 <!--
