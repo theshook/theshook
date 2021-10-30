@@ -33,8 +33,6 @@
 
 <br />
 
----
-
 <p align="center">
 <img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=theshook&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="theshook Github Stats"/>
 
