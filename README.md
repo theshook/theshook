@@ -5,7 +5,7 @@
   <img src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png?r=4ks" width="400" alt="Hajibar Fernandez's Dev Card"/>
 </a>
 
-- 🔭 I’m currently working on [Guerilla360][G360]
+- 🔭 I’m currently working in [Guerilla360][G360]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play guitar and play online games
