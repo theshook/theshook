@@ -25,10 +25,18 @@
  - ⚡ Fun fact: I love to play guitar and play online games
  - ☕️ Loves a freshly brewed cup of coffee
 
----
-<img src="https://github-readme-stats.vercel.app/api?username=theshook&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="theshook Github Stats"/>
+<br />
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshook&langs_count=10&layout=compact&hide_border=true&theme=tokyonight" alt="theshook Most Used Languages"/>
+---
+
+<p align="center">
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api?username=theshook&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="theshook Github Stats"/>
+
+<img width="49%" heigth="100%" style="display:inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshook&langs_count=10&layout=compact&hide_border=true&theme=tokyonight" alt="theshook Most Used Languages"/>
+</p>
+
+
 
 [G360]: https://guerilla360.com/
 <!--
