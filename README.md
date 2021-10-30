@@ -19,11 +19,11 @@
 
 ## I'm Haji aka theshook
 
- - 🔭. I’m currently working in [Guerilla360][G360]
- - 🌱  I’m currently learning everything 🤣
- - 👯  I’m looking to collaborate with other developers
- - ⚡   Fun fact: I love to play guitar and play online games
- - ☕️  Loves a freshly brewed cup of coffee
+ - 🔭 I’m currently working in [Guerilla360][G360]
+ - 🌱 I’m currently learning everything 🤣
+ - 👯 I’m looking to collaborate with other developers
+ - ⚡ Fun fact: I love to play guitar and play online games
+ - ☕️ Loves a freshly brewed cup of coffee
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=theshook&count_private=true&show_icons=true&hide_border=true&theme=tokyonight" alt="theshook Github Stats"/>
