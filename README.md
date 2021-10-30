@@ -25,10 +25,7 @@
  - ⚡ Fun fact: I love to play guitar and play online games
  - ☕️ Loves a freshly brewed cup of coffee
 <img src="https://github-profile-trophy.vercel.app/?username=theshook&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers" />
-<br />
-<br />
-<br />
-<br />
+
 <br />
 
 ---
