@@ -1,10 +1,12 @@
 ### Hi there, I'm Haji aka theshook 👋
 
-- 🔭 I’m currently working on Guerilla360
+- 🔭 I’m currently working on [Guerilla360][G360]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I love to play guitar and play online games
 
+
+[G360]: https://guerilla360.com/
 <!--
 **theshook/theshook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
