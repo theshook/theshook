@@ -1,6 +1,9 @@
 ### Hi there, I'm Haji aka theshook 👋
 
----<a href="https://app.daily.dev/haji"><img src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png?r=4ks" width="400" alt="Hajibar Fernandez's Dev Card"/></a>
+---
+<a href="https://app.daily.dev/haji" align="right">
+  <img src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png?r=4ks" width="400" alt="Hajibar Fernandez's Dev Card"/>
+</a>
 
 - 🔭 I’m currently working on [Guerilla360][G360]
 - 🌱 I’m currently learning everything 🤣
