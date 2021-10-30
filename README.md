@@ -4,16 +4,15 @@
 <div align="left">
 	<a href="https://linkedin.com/in/hajibar/">
 		<img
-	      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-	      alt="LinkedIn"/>
+	      		src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+	      		alt="LinkedIn"/>
 	</a>
 	<a href="https://app.daily.dev/haji" target="_blank">
-		<img 
 		<img src="https://github.com/theshook/theshook/blob/main/devcard.svg"
-		align="right"
-		width="400" 
-		alt="Hajibar Fernandez's Dev Card"/>
-		</a>
+			align="right"
+			width="400" 
+			alt="Hajibar Fernandez's Dev Card"/>
+	</a>
 </div>
 
 <br />
