@@ -1,11 +1,37 @@
-### Hi there, I'm Haji aka theshook 👋
 
-- 🔭 I’m currently working on [Guerilla360][G360]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- ⚡ Fun fact: I love to play guitar and play online games
+# Hi there 👋 
 
-<a href="https://app.daily.dev/haji"><img src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png?r=4ks" width="400" alt="Hajibar Fernandez's Dev Card"/></a>
+<div align="left">
+	<a href="https://linkedin.com/in/hajibar/">
+		<img
+	      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+	      alt="LinkedIn"/>
+	</a>
+	<a href="https://app.daily.dev/haji" target="_blank">
+		<img 
+		src="https://api.daily.dev/devcards/088dccaa817d4a1cb5b1093cb539f1ab.png?r=4ks"
+		align="right"
+		width="400" 
+		alt="Hajibar Fernandez's Dev Card"/>
+		</a>
+</div>
+
+<br />
+
+## I'm Haji aka theshook
+
+ - 🔭 I’m currently working in [Guerilla360][G360]
+ - 🌱 I’m currently learning everything 🤣
+ - 👯 I’m looking to collaborate with other developers
+ - ⚡ Fun fact: I love to play guitar and play online games
+ -  ☕️  Loves a freshly brewed cup of coffee
+
+
+
+
+
+
+
 
 
 [G360]: https://guerilla360.com/
