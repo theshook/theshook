@@ -26,6 +26,7 @@
  - ☕️ Loves a freshly brewed cup of coffee
 
 <br />
+<br />
 
 ## 📈 Github Statistics
 
