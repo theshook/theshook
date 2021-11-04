@@ -1,6 +1,8 @@
 
 # Hi there 👋 
 
+<br />
+
 <div align="left">
 	<a href="https://linkedin.com/in/hajibar/">
 		<img
@@ -15,6 +17,7 @@
 		alt="Hajibar Fernandez's Dev Card"/>
 		</a>
 </div>
+<br />
 <br />
 
 ## I'm Haji aka theshook
@@ -32,6 +35,7 @@
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=theshook&theme=oldie&title=Commit,Issues,Stars,PullRequest,Repositories,Followers" />
 
+<br />
 <br />
 
 <p align="center">
