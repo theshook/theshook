@@ -22,7 +22,6 @@
 
 ## I'm Haji aka theshook
 
- - 🔭 I’m currently working in [Guerilla360][G360]
  - 🌱 I’m currently learning everything 🤣
  - 👯 I’m looking to collaborate with other developers
  - ⚡ Fun fact: I love to play guitar and play online games
